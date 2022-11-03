@@ -5,6 +5,7 @@ Are in `\presentations` folder.
 
 ## Installations
 The relevant `docker-compose` files are in `\infrastracture`.
+**NOTE** that JVM needs to be installed on the computer.
 
 ### How to install
 
