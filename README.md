@@ -10,7 +10,7 @@ The relevant `docker-compose` files are in `\infrastracture`.
 ### How to install
 
 #### NiFi
-- Pull the image from [docker hub]{https://hub.docker.com/r/apache/nifi}
+- Pull the image from [docker hub](https://hub.docker.com/r/apache/nifi)
 - Continue with the guide in the link.
 
 #### Spark
@@ -22,9 +22,10 @@ The relevant `docker-compose` files are in `\infrastracture`.
 
 #### Kafka
 - Run the `docker-compose`.
+- **TODO**: kafka-connect
 
 #### Trino
-**TODO**
+- Pull the [image](https://hub.docker.com/r/trinodb/trino) and run it according to the guide.
 
 #### Postgres (pg)
-- Pull the [image]{https://hub.docker.com/_/postgres} and run it.
+- Pull the [image](https://hub.docker.com/_/postgres) and run it according to the guide.
