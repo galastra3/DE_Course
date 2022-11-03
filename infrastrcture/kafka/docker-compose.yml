@@ -204,3 +204,4 @@ services:
   #     SCHEMAREGISTRY_URL: http://localhost:8081'
   #     ALLOW_TRANSITIVE: 1
   #     PROXY: true
+     
