@@ -26,4 +26,4 @@ The relevant `docker-compose` files are in `\infrastracture`.
 **TODO**
 
 #### Postgres (pg)
-**TODO**
+- Pull the [image]{https://hub.docker.com/_/postgres} and run it.
