@@ -1,6 +1,6 @@
 # Welcome to DE COURSE
 
-## Presentations
+## Presentations and Excercises
 Are in `\presentations` folder.
 
 ## Installations
